@@ -1,0 +1,36 @@
+C:\Users\aluno\Desktop\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+G:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+G:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+I:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+I:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+J:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+J:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojResolveAssemblyReference.cache
+E:\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+E:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+E:\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojAssemblyReference.cache
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+D:\Área de trabalho\projMedicamento1\ProjetoMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe.config
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\bin\Debug\ProjetoMedicamentos.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projMedicamentos\ProjetoMedicamentos\obj\Debug\ProjetoMedicamentos.pdb
